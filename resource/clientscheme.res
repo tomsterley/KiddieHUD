@@ -5473,5 +5473,85 @@ Scheme
 			}
 		}			
 		"7" "resource/ocra.ttf"
+		"8"
+		{
+			"font" "resource/fonts/Roboto-Black.ttf"
+			"name" "Roboto Black"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Roboto-BlackItalic.ttf"
+			"name" "Roboto Black Italic"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Roboto-Bold.ttf"
+			"name" "Roboto Bold"
+		}
+		"11"
+		{
+			"font" "resource/fonts/Roboto-BoldCondensed.ttf"
+			"name" "Roboto Bold Condensed"
+		}
+		"12"
+		{
+			"font" "resource/fonts/Roboto-BoldCondensedItalic.ttf"
+			"name" "Roboto Bold Condensed Italic"
+		}
+		"13"
+		{
+			"font" "resource/fonts/Roboto-BoldItalic.ttf"
+			"name" "Roboto Bold Italic"
+		}
+		"14"
+		{
+			"font" "resource/fonts/Roboto-Condensed.ttf"
+			"name" "Roboto Condensed"
+		}
+		"15"
+		{
+			"font" "resource/fonts/Roboto-CondensedItalic.ttf"
+			"name" "Roboto Condensed Italic"
+		}
+		"16"
+		{
+			"font" "resource/fonts/Roboto-Italic.ttf"
+			"name" "Roboto Italic"
+		}
+		"17"
+		{
+			"font" "resource/fonts/Roboto-Light.ttf"
+			"name" "Roboto Light"
+		}
+		"18"
+		{
+			"font" "resource/fonts/Roboto-LightItalic.ttf"
+			"name" "Roboto Light Italic"
+		}
+		"19"
+		{
+			"font" "resource/fonts/Roboto-Medium.ttf"
+			"name" "Roboto Medium"
+		}
+		"20"
+		{
+			"font" "resource/fonts/Roboto-MediumItalic.ttf"
+			"name" "Roboto Medium Italic"
+		}
+		"21"
+		{
+			"font" "resource/fonts/Roboto-Regular.ttf"
+			"name" "Roboto Regular"
+		}
+		"22"
+		{
+			"font" "resource/fonts/Roboto-Thin.ttf"
+			"name" "Roboto Thin"
+		}
+		"23"
+		{
+			"font" "resource/fonts/Roboto-ThinItalic.ttf"
+			"name" "Roboto Thin Italic"
+		}
 	}
 }
