@@ -5476,82 +5476,82 @@ Scheme
 		"8"
 		{
 			"font" "resource/fonts/Roboto-Black.ttf"
-			"name" "Roboto Black"
+			"name" "RobotoBlack"
 		}
 		"9"
 		{
 			"font" "resource/fonts/Roboto-BlackItalic.ttf"
-			"name" "Roboto Black Italic"
+			"name" "RobotoBlackItalic"
 		}
 		"10"
 		{
 			"font" "resource/fonts/Roboto-Bold.ttf"
-			"name" "Roboto Bold"
+			"name" "RobotoBold"
 		}
 		"11"
 		{
 			"font" "resource/fonts/Roboto-BoldCondensed.ttf"
-			"name" "Roboto Bold Condensed"
+			"name" "RobotoBoldCondensed"
 		}
 		"12"
 		{
 			"font" "resource/fonts/Roboto-BoldCondensedItalic.ttf"
-			"name" "Roboto Bold Condensed Italic"
+			"name" "RobotoBoldCondensedItalic"
 		}
 		"13"
 		{
 			"font" "resource/fonts/Roboto-BoldItalic.ttf"
-			"name" "Roboto Bold Italic"
+			"name" "RobotoBoldItalic"
 		}
 		"14"
 		{
 			"font" "resource/fonts/Roboto-Condensed.ttf"
-			"name" "Roboto Condensed"
+			"name" "RobotoCondensed"
 		}
 		"15"
 		{
 			"font" "resource/fonts/Roboto-CondensedItalic.ttf"
-			"name" "Roboto Condensed Italic"
+			"name" "RobotoCondensedItalic"
 		}
 		"16"
 		{
 			"font" "resource/fonts/Roboto-Italic.ttf"
-			"name" "Roboto Italic"
+			"name" "RobotoItalic"
 		}
 		"17"
 		{
 			"font" "resource/fonts/Roboto-Light.ttf"
-			"name" "Roboto Light"
+			"name" "RobotoLight"
 		}
 		"18"
 		{
 			"font" "resource/fonts/Roboto-LightItalic.ttf"
-			"name" "Roboto Light Italic"
+			"name" "RobotoLightItalic"
 		}
 		"19"
 		{
 			"font" "resource/fonts/Roboto-Medium.ttf"
-			"name" "Roboto Medium"
+			"name" "RobotoMedium"
 		}
 		"20"
 		{
 			"font" "resource/fonts/Roboto-MediumItalic.ttf"
-			"name" "Roboto Medium Italic"
+			"name" "RobotoMediumItalic"
 		}
 		"21"
 		{
 			"font" "resource/fonts/Roboto-Regular.ttf"
-			"name" "Roboto Regular"
+			"name" "RobotoRegular"
 		}
 		"22"
 		{
 			"font" "resource/fonts/Roboto-Thin.ttf"
-			"name" "Roboto Thin"
+			"name" "RobotoThin"
 		}
 		"23"
 		{
 			"font" "resource/fonts/Roboto-ThinItalic.ttf"
-			"name" "Roboto Thin Italic"
+			"name" "RobotoThinItalic"
 		}
 	}
 }
