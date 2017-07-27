@@ -2943,6 +2943,46 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		
+		RobotoRegular12
+		{
+			"1"
+			{
+				"name"		"RobotoRegular"
+				"tall"		"15"
+				"antialias" "1"
+			}
+		}
+		
+		RobotoRegular24
+		{
+			"1"
+			{
+				"name"		"RobotoRegular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		RobotoRegular42
+		{
+			"1"
+			{
+				"name"		"RobotoRegular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		RobotoRegular48
+		{
+			"1"
+			{
+				"name"		"RobotoRegular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
